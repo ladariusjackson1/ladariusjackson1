@@ -1,34 +1,23 @@
-## Hi there 👋
+# LaDarius Jackson
 
-<!--
-**ladariusjackson1/ladariusjackson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olive Branch, Mississippi
 
-Here are some ideas to get you started:
-# Hi there! 👋
+B.B.A. in Business Analytics & Information Systems, Computer Science minor, at the University of Mississippi (Ole Miss). Expected May 2027.
 
-I'm **Ladarius Jackson**, an ML engineer building intelligent systems. I combine machine learning expertise with financial software to solve real problems.
+Founder of Double Eagle: [Double Eagle Financial LLC](https://doubleeaglefinancial.com) (bookkeeping for small businesses) and AI receptionist / talking websites for local contractors, built on Go High Level. QuickBooks ProAdvisor and tax preparer.
 
-## What I Do
-- **ML Engineering**: Building production ML systems with MLflow, FastAPI, and Docker
-- **Bookkeeping & Finance**: Running Double Eagle Financial LLC, a solo bookkeeping firm with QuickBooks expertise
-- **Data Science**: Developing regression models and predictive analytics
+Interested in business analytics, data and machine learning for small-business finance, and web builds for local service businesses.
 
-## Current Projects
-- **churn-mlops** - Registry-driven ML system for churn prediction
-- **revenue-prediction-model** - Regression modeling with enterprise structure  
-- **Double Eagle Financial** - Bookkeeping services for small businesses
+## Projects
 
-## Tech Stack
-Python • MLflow • FastAPI • Docker • scikit-learn • XGBoost • Pandas • QuickBooks
+- [revenue-prediction-model](https://github.com/ladariusjackson1/revenue-prediction-model) — Python regression project, being rebuilt
+- [Double-Eagle-](https://github.com/ladariusjackson1/Double-Eagle-) — source for [doubleeaglefinancial.com](https://doubleeaglefinancial.com)
+- [elite-concrete](https://github.com/ladariusjackson1/elite-concrete) — concept/demo site for a concrete contractor
 
-## Explore My Work
-Check out my [repositories](https://github.com/ladariusjackson1?tab=repositories) to see what I'm working on. Feel free to reach out if you'd like to collaborate!
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tools
+
+Python · pandas · scikit-learn · Jupyter · Streamlit · HTML/CSS/JavaScript · QuickBooks Online · Go High Level
+
+<!-- LinkedIn: add your profile URL on the next line, directly under Tools, once you have it. Example:
+[LinkedIn](https://www.linkedin.com/in/your-handle)
 -->
