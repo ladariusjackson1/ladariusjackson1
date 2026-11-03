@@ -1,23 +1,24 @@
 # LaDarius Jackson
 
-Olive Branch, Mississippi
+Business Analytics & Information Systems senior at the University of Mississippi (Ole Miss), graduating May 2027. Looking for finance, tax, and analytics roles.
 
-B.B.A. in Business Analytics & Information Systems, Computer Science minor, at the University of Mississippi (Ole Miss). Expected May 2027.
+Olive Branch, Mississippi · B.B.A., Computer Science minor
 
-Founder of Double Eagle: [Double Eagle Financial LLC](https://doubleeaglefinancial.com) (bookkeeping for small businesses) and AI receptionist / talking websites for local contractors, built on Go High Level. QuickBooks ProAdvisor and tax preparer.
+Founder of [Double Eagle Financial LLC](https://doubleeaglefinancial.com) (bookkeeping for small businesses). QuickBooks ProAdvisor and tax preparer. Also builds an AI receptionist and talking websites for local contractors on Go High Level.
 
-Interested in business analytics, data and machine learning for small-business finance, and web builds for local service businesses.
+## Featured
 
-## Projects
+[revenue-prediction-model](https://github.com/ladariusjackson1/revenue-prediction-model)  
+Held-out random forest MAE of £11,629.44 on the UCI Online Retail daily series, about £654 lower than a same-weekday-last-week forecast (1 Oct–8 Dec 2011).
 
-- [revenue-prediction-model](https://github.com/ladariusjackson1/revenue-prediction-model) — Python regression project, being rebuilt
-- [Double-Eagle-](https://github.com/ladariusjackson1/Double-Eagle-) — source for [doubleeaglefinancial.com](https://doubleeaglefinancial.com)
-- [elite-concrete](https://github.com/ladariusjackson1/elite-concrete) — concept/demo site for a concrete contractor
+[double-eagle-financial-site](https://github.com/ladariusjackson1/double-eagle-financial-site)  
+Static marketing site for a Memphis bookkeeping firm that works with real estate agents and general contractors, live at [doubleeaglefinancial.com](https://doubleeaglefinancial.com) (Netlify publishes `main`, no build step).
 
-## Tools
+## Skills
 
-Python · pandas · scikit-learn · Jupyter · Streamlit · HTML/CSS/JavaScript · QuickBooks Online · Go High Level
+Python · SQL · Excel · QuickBooks ProAdvisor
 
-<!-- LinkedIn: add your profile URL on the next line, directly under Tools, once you have it. Example:
-[LinkedIn](https://www.linkedin.com/in/your-handle)
--->
+## Contact
+
+- Email: [ladariusjackson27@gmail.com](mailto:ladariusjackson27@gmail.com)
+- LinkedIn: TODO
