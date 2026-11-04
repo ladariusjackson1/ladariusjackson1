@@ -13,8 +13,8 @@ Under a 5:1 default-to-denial cost, a gradient-boosting cutoff books 56 of 200 h
 Tech: Python, pandas, scikit-learn (gradient boosting), Streamlit
 
 **[loan-approval-prediction](https://github.com/ladariusjackson1/loan-approval-prediction)** · [Live demo](https://loan-approval-prediction.streamlit.app)
-A random-forest approve/decline rule costs 0.490 per holdout applicant, 30% below declining everyone, and 67 of 72 approvals are good credits.
-Tech: Python, pandas, scikit-learn (random forest), Streamlit
+Logistic regression on 9,578 Lending Club loans (OpenML 43729) reaches holdout ROC-AUC 0.704, with 420 of 443 approvals fully paid (94.8%), and saves $137,000 versus declining everyone on a 1,916-loan holdout under a planning cost scenario.
+Tech: Python, pandas, scikit-learn (logistic regression), Streamlit
 
 **[fraud-detection-ml](https://github.com/ladariusjackson1/fraud-detection-ml)** · [Live demo](https://fraud-detection-ml.streamlit.app)
 A random-forest review queue catches 76 of 95 held-out frauds at about 18 reviews per 10,000 transactions and costs $6,411 versus $17,315 for approving every ticket.
